@@ -2,10 +2,7 @@
 /**
  * Import
  */
-
-
 /**
-
 	 * Register the 'Custom Column' column in the importer.
 
 	 *
